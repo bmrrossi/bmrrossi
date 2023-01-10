@@ -1,6 +1,14 @@
 ### Hi there 👋
 ### My name is Bruno Michel Rossi - from 🇧🇷
 
+Senior Software Engineer at [CI&T](https://ciandt.com) - 💻
+
+[![Twitter: bmrrossi](https://img.shields.io/twitter/follow/bmrrossi?style=social)](https://twitter.com/bmrrossi)
+[![Linkedin: bmrrossi](https://img.shields.io/badge/-bmrrossi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomichelrossi/)](https://www.linkedin.com/in/brunomichelrossi/)
+[![GitHub bmrrossi](https://img.shields.io/github/followers/bmrrossi?label=follow&style=social)](https://github.com/bmrrossi)
+
+### Languages
+
 🌱 I’m currently learning [FastAPI](https://fastapi.tiangolo.com/)
 
 😄 Pronouns: He/Him
